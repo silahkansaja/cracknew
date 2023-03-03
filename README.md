@@ -12,10 +12,10 @@ $ pip install stdiomask
 
 $ pip install --upgrade pip
 
-$ git clone https://github.com/Basari-ID/alvino
+$ git clone https://github.com/wahyucmxd/cracknew
 
 $ ls
 
-$ cd alvino
+$ cd cracknew
 
 $ python wahyucm.py
